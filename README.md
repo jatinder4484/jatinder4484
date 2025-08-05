@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Jatinder Kumar
 
-<!--
-**jatinder4484/jatinder4484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **SDET (Software Development Engineer in Test)** with experience in both **Manual and Automation Testing**.
 
-Here are some ideas to get you started:
+### Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, JavaScript
+- **Automation Tools:** Selenium, Cypress
+- **Frameworks:** TestNG, Cucumber (BDD)
+- **Testing Types:** UI Testing, API Testing, End-to-End Testing
+- **Test Design:** BDD with Gherkin syntax
+- **Build & Reporting:** Maven, Extent Reports
+- **Version Control:** Git & GitHub
+
+---
+### Projects
+Check out my pinned repos below for test automation frameworks and case studies.
+
+---
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jatinder-kumar-42ab7b343/)
+- Email: jatinderkumar4484@gmail.com
+
+---
