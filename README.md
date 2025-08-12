@@ -34,8 +34,9 @@ Check out my pinned repos below for test automation frameworks and case studies.
 
 ---
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jatinder-kumar-42ab7b343/)
-- Email: jatinderkumar4484@gmail.com
+- 📍 Jammu & Kashmir, India  
+📧 [jatinderkumar4484@gmail.com](mailto:jatinderkumar4484@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/jatinder-kumar-42ab7b343/)
 
 ---
 <!-- GitHub stats -->
