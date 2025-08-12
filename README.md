@@ -15,6 +15,16 @@
 - **Version Control:** Git & GitHub
 
 ---
+### Projects
+Check out my pinned repos below for test automation frameworks and case studies.
+
+---
+### Connect with Me
+- 📍 Jammu & Kashmir, India  
+📧 [jatinderkumar4484@gmail.com](mailto:jatinderkumar4484@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/jatinder-kumar-42ab7b343/)
+
+---
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,16 +37,6 @@
 ![Extent Reports](https://img.shields.io/badge/Extent%20Reports-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-### Projects
-Check out my pinned repos below for test automation frameworks and case studies.
-
----
-### Connect with Me
-- 📍 Jammu & Kashmir, India  
-📧 [jatinderkumar4484@gmail.com](mailto:jatinderkumar4484@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/jatinder-kumar-42ab7b343/)
 
 ---
 <!-- GitHub stats -->
