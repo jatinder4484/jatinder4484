@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Jatinder Kumar
 
-I'm an aspiring **SDET (Software Development Engineer in Test)** with experience in both **Manual and Automation Testing**.
+🚀 **Aspiring Software Development Engineer in Test (SDET)** | Skilled in **Manual & Automation Testing**  
+💡 Passionate about building robust test automation frameworks and ensuring top-quality software delivery.
 
+---
 ### Technical Skills
 
 - **Languages:** Java, JavaScript
