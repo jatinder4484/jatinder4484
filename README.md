@@ -19,12 +19,6 @@
 Check out my pinned repos below for test automation frameworks and case studies.
 
 ---
-### Connect with Me
-- 📍 Jammu & Kashmir, India  
-📧 [jatinderkumar4484@gmail.com](mailto:jatinderkumar4484@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/jatinder-kumar-42ab7b343/)
-
----
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,5 +46,11 @@ Check out my pinned repos below for test automation frameworks and case studies.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinder4484&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+### Connect with Me
+- 📍 Jammu & Kashmir, India  
+📧 [jatinderkumar4484@gmail.com](mailto:jatinderkumar4484@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/jatinder-kumar-42ab7b343/)
 
 ---
