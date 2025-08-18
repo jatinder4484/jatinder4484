@@ -42,6 +42,8 @@ Check out my pinned repos below for test automation frameworks and case studies.
 <!-- GitHub stats -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinder4484&show_icons=true&theme=radical)](https://github.com/jatinder4484)
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=jatinder4484&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinder4484&layout=compact&langs_count=6)](https://github.com/jatinder4484)
 
+---
